@@ -1,4 +1,5 @@
-# OSU-VIRT-DATA-PT-08-2024-U-LOLC
+# the main.py is on file directory under the resource file
+pypoll/resource/main.py
 
 
 
@@ -8,7 +9,7 @@
 
 before start i need to import os and csv module.
 step 1: file path
- we need to direct to the os based file path the correct directory
+ we need to direct to the os based file path to the correct directory
  header need to be skipped
  step 2:assigning the variable, we need to break down the information.
  step 3:we need to find the total vote count once we separated the vote count and candidate from given data set.
